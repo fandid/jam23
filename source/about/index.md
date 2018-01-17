@@ -6,6 +6,6 @@ comments: false
 ---
 * [Github](https://github.com/faradk "Github")
 * [E-Mail](mailto:fadeinside193@gmail.com "E-Mail")
-* [Instagram](https://instagram.com/faradk23 "Instagram")
+* [Instagram](https://www.instagram.com/faradk23/ "Instagram")
 * [EyeEm](https://www.eyeem.com/u/hadidjam "EyeEm")
 * [Rss](https://faradk.github.io/atom.xml "Rss")
