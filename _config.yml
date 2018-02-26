@@ -3,10 +3,10 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: faradk
+title: 23
 subtitle:
 description:
-author: faradk
+author: fandid
 language: en
 timezone:
 
@@ -82,6 +82,6 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/faradk/faradk.github.io.git
+  repo: https://github.com/fandid/fandid.github.io.git
   branch: master
   message: "{{ now('YYYY-MM-DD HH:mm:ss') }} "
