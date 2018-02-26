@@ -5,7 +5,7 @@ tags:
 - tech
 - hexo
 - github
-- AppVeyor
+- appveyor
 categories: tech
 ---
 前面介绍过如何用hexo＋github生成静态page，今天小小总结一下如何用Appveyor持续集成，解决hexo多端同步的问题。
