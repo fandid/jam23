@@ -6,6 +6,5 @@ comments: false
 ---
 * [Github](https://github.com/faracy "Github")
 * [E-Mail](mailto:fadeinside193@gmail.com "E-Mail")
-* [Instagram](https://www.instagram.com/fara_cy/ "Instagram")
 * [EyeEm](https://www.eyeem.com/u/hadidjam "EyeEm")
 * [Rss](https://faracy.github.io/atom.xml "Rss")
