@@ -362,7 +362,7 @@ han: false
 # Disqus
 disqus:
   enable: true
-  shortname: faracy
+  shortname: hadidjam
   count: true
 
 # Hypercomments
