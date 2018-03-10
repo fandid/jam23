@@ -127,7 +127,7 @@ scheme: Muse
 # Value before `||` delimeter is the target permalink.
 # Value after `||` delimeter is the name of FontAwesome icon. If icon (with or without delimeter) is not specified, globe icon will be loaded.
 social:
-  GitHub: https://github.com/faracy || github
+  GitHub: https://github.com/hadidjam || github
   E-Mail: mailto:fadeinside193@gmail.com || envelope
   #Google: https://plus.google.com/yourname || google
   #Twitter: https://twitter.com/yourname || twitter
@@ -135,7 +135,7 @@ social:
   #VK Group: https://vk.com/yourname || vk
   #StackOverflow: https://stackoverflow.com/yourname || stack-overflow
   #YouTube: https://youtube.com/yourname || youtube
-  Instagram: https://instagram.com/fara_cy || instagram
+  #Instagram: https://instagram.com/fara_cy || instagram
   EyeEm: https://www.eyeem.com/u/hadidjam || camera-retro
   #Skype: skype:yourname?call|chat || skype
 
