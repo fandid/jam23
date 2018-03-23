@@ -10,7 +10,7 @@ categories: tech
 ---
 前面介绍过如何用hexo＋github生成静态page，今天小小总结一下如何用Appveyor持续集成，解决hexo多端同步的问题。
 
-hexo＋github好归好，但多端同步始终是困扰大多数人的一个问题。hexo的一切活动都依赖于本地构建的git和node.js环境，之后再将hexo生成的静态page托管到github上。如果出现换电脑、重装系统等情况，只能重新搭建环境，这样未免有些麻烦。受此文章[Hexo的版本控制与持续集成](https://formulahendry.github.io/2016/12/04/hexo-ci/#)启发，终于找到了合适的同步方法，主要是利用AppVeyor进行持续集成。
+hexo＋github确实还可以，但多端同步始终是困扰大多数人的一个问题。hexo的一切活动都依赖于本地构建的git和node.js环境，之后再将hexo生成的静态page托管到github上。如果出现换电脑、重装系统等情况，只能重新搭建环境，这样未免有些麻烦。受此文章[Hexo的版本控制与持续集成](https://formulahendry.github.io/2016/12/04/hexo-ci/#)启发，终于找到了合适的同步方法，主要是利用AppVeyor进行持续集成。
 
 ## 建立source repo
 * 在github上新建repo作为source repo，source repo用来存放hexo源文件，当hexo源文件发生改变，AppVeyor将自动生成静态页面并push到content repo，即github上我们托管的静态页面，这样一来既对hexo源文件进行了备份，又避免了手动deploy的繁琐。
