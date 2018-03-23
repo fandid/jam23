@@ -9,7 +9,7 @@ categories: tech
 ---
 前几天一直在折腾静态博客，相比wordpress之类臃肿的动态博客来说，static website越来越成为个人博客、轻量级博客的首选。在接触hexo和github之前，一直用的是`dropbox+droppages`的形式搭建静态页面。这种形式足够简洁，本地生成markdown后直接在文件夹内更新，省去在线编辑和修改的限制。droppages本身提供了几个theme，可修改css等文件，当然排版方面非常简陋，如果只是专注于写作、文字，droppages足够了，重点是真的很方便。（与后面hexo一比就能感受到）
 
-下面来说说hexo和github的搭建过程，也算做个记录。之所以会接触这些，也是因为droppages配置太简陋。当然首要选择还是希望有dropbox+something的组合，可惜除了droppages，没有找到什么合适的。寻找期间，尝试了evernote+postach.io的形式，也还不错，不过始终觉得别扭，也许对evernote没啥好感？然后尝试了farbox的最新产品bitcron，据说很多人都从其他平台迁移至bitcron，我试用了一下还行，就是价格感觉不太适合轻量级用户，对我这种经常折腾的人来说也不太实用，放弃。
+下面来说说hexo和github的搭建过程，也算做个记录。某些方面droppages用起来还是有些限制，所以想着寻找合适的替代。首选还是希望有dropbox+something的组合，可惜除了droppages，没有找到什么合适的。寻找期间，尝试了evernote+postach.io的形式，也还不错，不过始终觉得别扭，也许对evernote没啥好感？然后尝试了farbox的最新产品bitcron，据说很多人都从其他平台迁移至bitcron，我试用了一下还行，就是价格感觉不太适合轻量级用户，对我这种经常折腾的人来说也不太实用，放弃。
 没办法，只能自己动手搭一个了，在jekyll，hexo，hugo，octopress，ghost等众多框架中，我选了hexo，一来相对难度小一点，小白多钻研一下也可以弄明白；二来hexo基于node.js环境，对于Windows友好一点，而jekyll基于ruby，在windows上配置起来要繁琐一些。更重要的是hexo好看啊，充分展现了simple is beautiful
 
 虽说hexo简单一些，但搭起来也处处是坑，第一遍啥也不懂结果费了半天劲404了，第二遍大概用了二十分钟就搭好了。前期准备工作做好之后搭起来就特别快，找一个好的教程也很重要，很多小问题基本google都能解决。
