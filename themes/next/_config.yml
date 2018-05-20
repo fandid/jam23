@@ -198,7 +198,7 @@ sidebar:
   scrollpercent: false
 
   # Enable sidebar on narrow view (only for Muse | Mist).
-  onmobile: false
+  onmobile: true
 
 
 # ---------------------------------------------------------------
