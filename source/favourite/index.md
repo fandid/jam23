@@ -1,9 +1,9 @@
 ---
-title: FAVOURITE
+title: 
 date: 2018-05-21 13:01:47
 comment: true
 ---
-# BOOKS ​ 
+# 📖BOOKS ​ 
 {% readStream %}
 {% readItems https://img3.doubanio.com/view/subject/l/public/s6100756.jpg https://img3.doubanio.com/view/subject/l/public/s6100756.jpg 人间失格 %}
 {% readItems https://img1.doubanio.com/view/subject/l/public/s1086519.jpg https://img1.doubanio.com/view/subject/l/public/s1086519.jpg 再见了克鲁 %}
@@ -20,7 +20,7 @@ comment: true
 
 {% endreadStream %} 
 ​
-# FILMS
+# 🎬FILMS
 {% readStream %}
 {% readItems http://ozcxwjepj.bkt.clouddn.com/18-5-21/5881097.jpg http://ozcxwjepj.bkt.clouddn.com/18-5-21/5881097.jpg 被嫌弃的松子的一生 %}
 {% readItems http://ozcxwjepj.bkt.clouddn.com/18-5-21/41635367.jpg http://ozcxwjepj.bkt.clouddn.com/18-5-21/41635367.jpg 燕尾蝶 %}
@@ -36,7 +36,7 @@ comment: true
 
 {% endreadStream %} 
 
-# TV DRAMAS
+# 📻TV DRAMAS
 {% readStream %}
 {% readItems http://ozcxwjepj.bkt.clouddn.com/18-5-21/52318683.jpg http://ozcxwjepj.bkt.clouddn.com/18-5-21/52318683.jpg Shameless %}
 {% readItems http://ozcxwjepj.bkt.clouddn.com/18-5-21/16547075.jpg http://ozcxwjepj.bkt.clouddn.com/18-5-21/16547075.jpg GoT %}
@@ -62,7 +62,7 @@ comment: true
 
 {% endreadStream %} 
 
-# ANIME
+# 🎠️ANIME
 {% readStream %}
 {% readItems http://ozcxwjepj.bkt.clouddn.com/18-5-21/43527350.jpg http://ozcxwjepj.bkt.clouddn.com/18-5-21/43527350.jpg 鬼灯的冷彻 %}
 {% readItems http://ozcxwjepj.bkt.clouddn.com/18-5-21/75392253.jpg http://ozcxwjepj.bkt.clouddn.com/18-5-21/75392253.jpg 学园奶爸 %}
@@ -72,7 +72,7 @@ comment: true
 {% readItems http://ozcxwjepj.bkt.clouddn.com/18-5-21/91755676.jpg http://ozcxwjepj.bkt.clouddn.com/18-5-21/91755676.jpg UglyAmericans %}
 {% endreadStream %} 
 
-# CREATIVE PEOPLE
+# 🎇CREATIVE PEOPLE
 {% readStream %}
 {% readItems http://ozcxwjepj.bkt.clouddn.com/18-5-22/83154127.jpg http://ozcxwjepj.bkt.clouddn.com/18-5-22/83154127.jpg 太宰治 %}
 {% readItems http://ozcxwjepj.bkt.clouddn.com/18-5-21/95297697.jpg http://ozcxwjepj.bkt.clouddn.com/18-5-21/95297697.jpg 三毛 %}
