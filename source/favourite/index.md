@@ -1,5 +1,5 @@
 ---
-title: favorite
+title: FAVOURITE
 date: 2018-05-21 13:01:47
 comment: true
 ---
@@ -79,7 +79,7 @@ comment: true
 {% readItems http://ozcxwjepj.bkt.clouddn.com/18-5-21/60187735.jpg http://ozcxwjepj.bkt.clouddn.com/18-5-21/60187735.jpg 杜拉斯 %}
 {% readItems http://ozcxwjepj.bkt.clouddn.com/18-5-22/71811082.jpg http://ozcxwjepj.bkt.clouddn.com/18-5-22/71811082.jpg 毛姆 %}
 {% readItems http://ozcxwjepj.bkt.clouddn.com/18-5-22/44193745.jpg http://ozcxwjepj.bkt.clouddn.com/18-5-22/44193745.jpg 伊坂幸太郎 %}
-{% readItems http://ozcxwjepj.bkt.clouddn.com/18-5-21/95863854.jpg http://ozcxwjepj.bkt.clouddn.com/18-5-21/95863854.jpg 王朔 %}
+{% readItems http://ozcxwjepj.bkt.clouddn.com/18-5-22/79783911.jpg http://ozcxwjepj.bkt.clouddn.com/18-5-22/79783911.jpg 王朔 %}
 {% readItems http://ozcxwjepj.bkt.clouddn.com/18-5-21/65636812.jpg http://ozcxwjepj.bkt.clouddn.com/18-5-21/65636812.jpg 加缪 %}
 {% readItems http://ozcxwjepj.bkt.clouddn.com/18-5-21/99153910.jpg http://ozcxwjepj.bkt.clouddn.com/18-5-21/99153910.jpg 卡伦霍妮 %}
 {% readItems http://ozcxwjepj.bkt.clouddn.com/18-5-21/48158294.jpg http://ozcxwjepj.bkt.clouddn.com/18-5-21/48158294.jpg JeremyAllenWhite %}
@@ -87,7 +87,7 @@ comment: true
 {% readItems http://ozcxwjepj.bkt.clouddn.com/18-5-22/85775569.jpg http://ozcxwjepj.bkt.clouddn.com/18-5-22/85775569.jpg 王志文 %}
 {% readItems http://ozcxwjepj.bkt.clouddn.com/18-5-22/94643545.jpg 
 http://ozcxwjepj.bkt.clouddn.com/18-5-22/94643545.jpg KentoYamazaki %}
-{% readItems http://ozcxwjepj.bkt.clouddn.com/18-5-22/39671665.jpg http://ozcxwjepj.bkt.clouddn.com/18-5-22/39671665.jpg ParkBogum %}
+{% readItems http://ozcxwjepj.bkt.clouddn.com/18-5-22/6859895.jpg http://ozcxwjepj.bkt.clouddn.com/18-5-22/6859895.jpg ParkBogum %}
 {% readItems http://ozcxwjepj.bkt.clouddn.com/18-5-22/94078203.jpg http://ozcxwjepj.bkt.clouddn.com/18-5-22/94078203.jpg YookSungjae %}
 {% readItems http://ozcxwjepj.bkt.clouddn.com/18-5-22/61384856.jpg http://ozcxwjepj.bkt.clouddn.com/18-5-22/61384856.jpg SamSmith %}
 {% readItems http://ozcxwjepj.bkt.clouddn.com/18-5-22/77286872.jpg http://ozcxwjepj.bkt.clouddn.com/18-5-22/77286872.jpg JayChou %}
