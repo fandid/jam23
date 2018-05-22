@@ -3,7 +3,7 @@ title: <i class="fa fa-camera-retro" aria-hidden="true"></i>
 date: 2018-05-21 13:37:52
 comment: true
 ---
-## 玉渊潭 ​
+<blockquote class="question">玉渊潭</blockquote>
 
 {% timemachine %}
 {% part http://ozcxwjepj.bkt.clouddn.com/18-1-17/46341583.jpg http://ozcxwjepj.bkt.clouddn.com/18-1-17/46341583.jpg 2017-03-16 %}
@@ -17,7 +17,7 @@ comment: true
 
 {% endtimemachine %}
 [MORE PICS](https://hadidjam.github.io/2017/03/16/%E7%8E%89%E6%B8%8A%E6%BD%AD/) 
-*****
+
 ​
 
 
