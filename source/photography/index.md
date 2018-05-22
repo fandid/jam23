@@ -1,5 +1,5 @@
 ---
-title: <i class="fa fa-camera-retro" aria-hidden="true"></i>
+title: 
 date: 2018-05-21 13:37:52
 comment: true
 ---
