@@ -36,7 +36,7 @@ comment: true
 
 {% endreadStream %} 
 
-<blockquote class="question">📻TV DRAMAS/blockquote> 
+<blockquote class="question">📻TV DRAMAS</blockquote> 
 {% readStream %}
 {% readItems http://ozcxwjepj.bkt.clouddn.com/18-5-21/52318683.jpg http://ozcxwjepj.bkt.clouddn.com/18-5-21/52318683.jpg Shameless %}
 {% readItems http://ozcxwjepj.bkt.clouddn.com/18-5-21/16547075.jpg http://ozcxwjepj.bkt.clouddn.com/18-5-21/16547075.jpg GoT %}
@@ -62,7 +62,7 @@ comment: true
 
 {% endreadStream %} 
 
-<blockquote class="question">🎠️ANIME DRAMAS/blockquote>
+<blockquote class="question">🎠️ANIME</blockquote>
 {% readStream %}
 {% readItems http://ozcxwjepj.bkt.clouddn.com/18-5-21/43527350.jpg http://ozcxwjepj.bkt.clouddn.com/18-5-21/43527350.jpg 鬼灯的冷彻 %}
 {% readItems http://ozcxwjepj.bkt.clouddn.com/18-5-21/75392253.jpg http://ozcxwjepj.bkt.clouddn.com/18-5-21/75392253.jpg 学园奶爸 %}
@@ -72,7 +72,7 @@ comment: true
 {% readItems http://ozcxwjepj.bkt.clouddn.com/18-5-21/91755676.jpg http://ozcxwjepj.bkt.clouddn.com/18-5-21/91755676.jpg UglyAmericans %}
 {% endreadStream %} 
 
-<blockquote class="question">🎇CREATIVE PEOPLE/blockquote> 
+<blockquote class="question">🎇CREATIVE PEOPLE</blockquote> 
 {% readStream %}
 {% readItems http://ozcxwjepj.bkt.clouddn.com/18-5-22/83154127.jpg http://ozcxwjepj.bkt.clouddn.com/18-5-22/83154127.jpg 太宰治 %}
 {% readItems http://ozcxwjepj.bkt.clouddn.com/18-5-21/95297697.jpg http://ozcxwjepj.bkt.clouddn.com/18-5-21/95297697.jpg 三毛 %}
