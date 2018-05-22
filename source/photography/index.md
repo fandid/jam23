@@ -1,5 +1,5 @@
 ---
-title: photography
+title: PHOTOGRAPHY
 date: 2018-05-21 13:37:52
 comment: true
 ---
