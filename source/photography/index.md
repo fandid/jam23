@@ -16,7 +16,7 @@ comment: true
 {% part http://ozcxwjepj.bkt.clouddn.com/18-1-17/51842105.jpg http://ozcxwjepj.bkt.clouddn.com/18-1-17/51842105.jpg 2017-03-16 %}
 
 {% endtimemachine %}
-[MORE PIC](https://hadidjam.github.io/2017/03/16/%E7%8E%89%E6%B8%8A%E6%BD%AD/) 
+[MORE PICS](https://hadidjam.github.io/2017/03/16/%E7%8E%89%E6%B8%8A%E6%BD%AD/) 
 *****
 ​
 
