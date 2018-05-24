@@ -5,19 +5,19 @@ comment: true
 ---
 <blockquote class="question">📖 BOOKS</blockquote>  ​ 
 {% readStream %}
-{% readItems https://img3.doubanio.com/view/subject/l/public/s6100756.jpg https://img3.doubanio.com/view/subject/l/public/s6100756.jpg 人间失格 %}
-{% readItems https://img1.doubanio.com/view/subject/l/public/s1086519.jpg https://img1.doubanio.com/view/subject/l/public/s1086519.jpg 再见了克鲁 %}
-{% readItems https://img1.doubanio.com/view/subject/l/public/s29130957.jpg https://img1.doubanio.com/view/subject/l/public/s29130957.jpg 金色梦乡 %}
-{% readItems https://img3.doubanio.com/view/subject/l/public/s1075121.jpg https://img3.doubanio.com/view/subject/l/public/s1075121.jpg 平静的生活 %}
-{% readItems https://img3.doubanio.com/view/subject/l/public/s26936721.jpg https://img3.doubanio.com/view/subject/l/public/s26936721.jpg 一个人的朝圣 %}
-{% readItems https://img3.doubanio.com/view/subject/l/public/s26538475.jpg https://img3.doubanio.com/view/subject/l/public/s26538475.jpg 漫长的告别 %}
-{% readItems https://img1.doubanio.com/view/subject/l/public/s3073167.jpg https://img1.doubanio.com/view/subject/l/public/s3073167.jpg 遥远的救世主 %}
-{% readItems https://img1.doubanio.com/view/subject/l/public/s8884339.jpg https://img1.doubanio.com/view/subject/l/public/s8884339.jpg 过把瘾就死 %}
-{% readItems https://img3.doubanio.com/view/subject/l/public/s27155681.jpg https://img3.doubanio.com/view/subject/l/public/s27155681.jpg 我们时代的神经症人格 %}
-{% readItems https://img1.doubanio.com/view/subject/l/public/s4501907.jpg https://img1.doubanio.com/view/subject/l/public/s4501907.jpg 论摄影 %}
-{% readItems https://img3.doubanio.com/view/subject/l/public/s8849305.jpg https://img3.doubanio.com/view/subject/l/public/s8849305.jpg 基督山伯爵 %}
+{% readItems https://img1.doubanio.com/view/subject/l/public/s28230797.jpg https://img1.doubanio.com/view/subject/l/public/s28230797.jpg 人间失格 %}
+{% readItems http://ozcxwjepj.bkt.clouddn.com/18-5-24/16091079.jpg http://ozcxwjepj.bkt.clouddn.com/18-5-24/16091079.jpg 再见了克鲁 %}
+{% readItems http://ozcxwjepj.bkt.clouddn.com/18-5-24/22206256.jpg http://ozcxwjepj.bkt.clouddn.com/18-5-24/22206256.jpg 金色梦乡 %}
+{% readItems http://ozcxwjepj.bkt.clouddn.com/18-5-24/18972869.jpg http://ozcxwjepj.bkt.clouddn.com/18-5-24/18972869.jpg 平静的生活 %}
+{% readItems http://ozcxwjepj.bkt.clouddn.com/18-5-24/46706498.jpg http://ozcxwjepj.bkt.clouddn.com/18-5-24/46706498.jpg 一个人的朝圣 %}
+{% readItems http://ozcxwjepj.bkt.clouddn.com/18-5-24/43396818.jpg http://ozcxwjepj.bkt.clouddn.com/18-5-24/43396818.jpg 漫长的告别 %}
+{% readItems http://ozcxwjepj.bkt.clouddn.com/18-5-24/39532353.jpg http://ozcxwjepj.bkt.clouddn.com/18-5-24/39532353.jpg 遥远的救世主 %}
+{% readItems http://ozcxwjepj.bkt.clouddn.com/18-5-24/25394507.jpg http://ozcxwjepj.bkt.clouddn.com/18-5-24/25394507.jpg 过把瘾就死 %}
+{% readItems http://ozcxwjepj.bkt.clouddn.com/18-5-24/95861950.jpg http://ozcxwjepj.bkt.clouddn.com/18-5-24/95861950.jpg 我们时代的神经症人格 %}
+{% readItems http://ozcxwjepj.bkt.clouddn.com/18-5-24/35794263.jpg http://ozcxwjepj.bkt.clouddn.com/18-5-24/35794263.jpg 论摄影 %}
+{% readItems http://ozcxwjepj.bkt.clouddn.com/18-5-24/13748472.jpg http://ozcxwjepj.bkt.clouddn.com/18-5-24/13748472.jpg 基督山伯爵 %}
 
-{% readItems https://img1.doubanio.com/view/subject/l/public/s28230797.jpg https://img1.doubanio.com/view/subject/l/public/s28230797.jpg 瓦尔登湖 %}
+{% readItems http://ozcxwjepj.bkt.clouddn.com/18-5-24/54973540.jpg http://ozcxwjepj.bkt.clouddn.com/18-5-24/54973540.jpg 瓦尔登湖 %}
 
 {% endreadStream %} 
 ​
