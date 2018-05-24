@@ -5,7 +5,7 @@ comment: true
 ---
 <blockquote class="question">📖 BOOKS</blockquote>  ​ 
 {% readStream %}
-{% readItems https://img1.doubanio.com/view/subject/l/public/s28230797.jpg https://img1.doubanio.com/view/subject/l/public/s28230797.jpg 人间失格 %}
+{% readItems http://ozcxwjepj.bkt.clouddn.com/18-5-24/92287019.jpg http://ozcxwjepj.bkt.clouddn.com/18-5-24/92287019.jpg 人间失格 %}
 {% readItems http://ozcxwjepj.bkt.clouddn.com/18-5-24/16091079.jpg http://ozcxwjepj.bkt.clouddn.com/18-5-24/16091079.jpg 再见了克鲁 %}
 {% readItems http://ozcxwjepj.bkt.clouddn.com/18-5-24/22206256.jpg http://ozcxwjepj.bkt.clouddn.com/18-5-24/22206256.jpg 金色梦乡 %}
 {% readItems http://ozcxwjepj.bkt.clouddn.com/18-5-24/18972869.jpg http://ozcxwjepj.bkt.clouddn.com/18-5-24/18972869.jpg 平静的生活 %}
