@@ -97,7 +97,7 @@ menu:
   categories: /categories/ || th
   tags: /tags/ || tag
   Photography: /photography/ || camera-retro
-  Favourite: /favourite/ || star
+  Favourites: /favourite/ || star
   archives: /archives/ || archive
   
   #commonweal: /404/ || heartbeat
