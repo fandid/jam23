@@ -73,7 +73,7 @@ comment: true
 {% readItems http://ozcxwjepj.bkt.clouddn.com/18-5-21/91755676.jpg http://ozcxwjepj.bkt.clouddn.com/18-5-21/91755676.jpg UglyAmericans %}
 {% endreadStream %} 
 
-<blockquote class="question">🎇 CREATIVE PEOPLE</blockquote> 
+<blockquote class="question">🎇 </blockquote> 
 {% readStream %}
 {% readItems http://ozcxwjepj.bkt.clouddn.com/18-5-22/83154127.jpg http://ozcxwjepj.bkt.clouddn.com/18-5-22/83154127.jpg 太宰治 %}
 {% readItems http://ozcxwjepj.bkt.clouddn.com/18-5-21/95297697.jpg http://ozcxwjepj.bkt.clouddn.com/18-5-21/95297697.jpg 三毛 %}
