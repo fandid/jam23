@@ -100,7 +100,7 @@ menu:
   Favourites: /favourite/ || star
   #Gibberish: /gibberish/ || podcast
   archives: /archives/ || archive
-  
+  excerpts: /excerpts/ || bars
   #commonweal: /404/ || heartbeat
 
 # Enable/Disable menu icons.
