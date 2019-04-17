@@ -12,11 +12,10 @@ categories: learning
   * westlaw 
      * 一手资料 case、USCA、FR、CFR
      * 二手资料 legal review，ALR，Am Jur，CJS，encyclopedia等
-      效力上 Restatement＞Am Jur、CJS＞ALR＞treatise＞legal review＞practice materials
   * HeinOnline 查期刊比较方便
   * Google scholar
   * 根据内容的需要查找相关官方网站
-  * 个人最常用的是westlaw，HeinOnline和Google scholar，且结合使用非常方便。不论subject是什么，我们都需要从一手资源入手，从大量的case，成文法和相关的法规中找支撑论据；二手资源可作为辅助，帮助理解，也可从二手资源的注释中挖掘出更多的一手资源。
+  * 个人最常用的是westlaw，HeinOnline和Google scholar，且结合使用非常方便。
 * annotation
   * 写作时最好直接插入注释的规范形式，后期修改时可以节省不少时间。注释相同时，可先插入完整的，最后修改为 Id./Id. at 32-33./xxx,supra note 3, at 45-46. ,避免因内容调整而出现注释错位、丢失。
   * 大部分期刊HeinOnline都有收录，可直接搜索并cite bulebook格式
@@ -36,8 +35,7 @@ categories: learning
   * 再一次推荐github、coding 版本控制非常方便
 
 ***********
-转眼到了三月底，毕业的季节，熬夜肝论文的季节。每天靠黑咖和某云音乐史诗级bgm歌单续命。花费将近一千大洋查重，修改近10个version定稿，暗自腹诽无良的cnki、无意义的查重、智障的系统并想发射10000个蓝衣女子的白眼。
-吐槽归吐槽，还是说一下最后定稿中一些不得不注意的小细节。
+转眼到了三月底，毕业的季节，熬夜肝论文的季节。每天靠黑咖和某云音乐史诗级bgm歌单续命。说一下最后定稿中一些不得不注意的小细节。
 1.备份
 做好备份！做好备份！做好备份！！！改论文先另存为或者用coding github，把每一次改动的版本都保留下来。在最后定稿之前，会经历多次结构的调整，有可能会用到之前写的内容。
 2.有关目录
@@ -82,7 +80,7 @@ categories: learning
 `Ctrl＋F` 查找是否有多余空格 是否中英文标点（逗号）打错。不求内容多高大上，最起码在形式上做到完美。
 
 7.关于心态
-修改过程中不止一次会心态爆炸 尤其是结构调整  刚改完又让改回去？excuse me？喵喵喵？但除了好好改，熬夜改，改了又改，别无他法。多和导师沟通，遇到一个负责甚至有点强迫症的导师，emmm且改且珍惜。
+修改过程中不止一次会心态爆炸 尤其是结构调整  刚改完又让改回去？excuse me？喵喵喵？但除了好好改，熬夜改，改了又改，别无他法，多和导师沟通。
 
 ********
 以上
